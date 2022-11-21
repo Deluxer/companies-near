@@ -1,11 +1,13 @@
 contract/.cargo
 contract/neardev
 contract/target
-integration-tests
+integration-tests/target
 neardev
 
 frontend/.parcel-cache
 frontend/dist
+
+/.vscode
 
 node_modules
 /.pnp
